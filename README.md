@@ -30,7 +30,11 @@ The objective of the Coffee Sales Data project is to analyze sales performance a
 ## Process
 
 -The coffee sales data project involves collecting and cleaning sales information from various sources to ensure accuracy.
+
 -The data is then prepared by adding calculated fields like total sales and profit. 
+
 -After preparation, analysis is done to study sales by year, month, product, and weekday.
--Visualizations such as charts and dashboards are created to identify trends and performance patterns. 
+
+-Visualizations such as charts and dashboards are created to identify trends and performance patterns.
+
 -Finally, insights are reported to help improve marketing, pricing, and inventory decisions for better business outcomes.

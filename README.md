@@ -26,3 +26,11 @@ The objective of the Coffee Sales Data project is to analyze sales performance a
 -Does customer buying behavior change during weekdays vs weekends?
 
 -Dashboard interaction <a href="https://github.com/Aravindkishore16/Data-Analysis-Dashboard/blob/main/Screenshot%20(86).png">View Dashboard</a>
+
+## Process
+
+-The coffee sales data project involves collecting and cleaning sales information from various sources to ensure accuracy.
+-The data is then prepared by adding calculated fields like total sales and profit. 
+-After preparation, analysis is done to study sales by year, month, product, and weekday.
+-Visualizations such as charts and dashboards are created to identify trends and performance patterns. 
+-Finally, insights are reported to help improve marketing, pricing, and inventory decisions for better business outcomes.

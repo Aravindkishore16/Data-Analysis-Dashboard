@@ -40,7 +40,7 @@ The objective of the Coffee Sales Data project is to analyze sales performance a
 -Finally, insights are reported to help improve marketing, pricing, and inventory decisions for better business outcomes.
 
 ## Dashboard
-<img width="1316" height="539" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/4d0e72ec-ed7d-4aa0-838c-2a36b6307f3b" />
+<img width="1316" height="539" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/597ffdd3-a8b0-4ffb-a692-536ca22c3ec8" />
 
 
 ## Project Insights

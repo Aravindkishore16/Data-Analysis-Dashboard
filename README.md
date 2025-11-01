@@ -25,7 +25,8 @@ The objective of the Coffee Sales Data project is to analyze sales performance a
 
 -Does customer buying behavior change during weekdays vs weekends?
 
--Dashboard interaction <a href="https://github.com/Aravindkishore16/Data-Analysis-Dashboard/blob/main/Screenshot%20(86).png">View Dashboard</a>
+-Dashboard interaction <a href="<img width="1316" height="539" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/63ce276b-de94-470e-9be6-b55872fceaba" />
+">View Dashboard</a>
 
 ## Process
 

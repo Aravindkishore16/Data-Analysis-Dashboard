@@ -38,3 +38,14 @@ The objective of the Coffee Sales Data project is to analyze sales performance a
 -Visualizations such as charts and dashboards are created to identify trends and performance patterns.
 
 -Finally, insights are reported to help improve marketing, pricing, and inventory decisions for better business outcomes.
+
+## Dashboard
+<img width="1310" height="536" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/fd952dff-0802-4ab5-824f-1847cffd37ed" />
+
+## Project Insights
+
+-The analysis shows that certain coffee products, such as Americano with milk and Latte, generate the highest sales and profit.
+
+-The year 2024 has the highest sales.
+
+-Weekday analysis reveals that weekdays have higher sales compared to weekends.

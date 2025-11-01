@@ -4,6 +4,7 @@
 The objective of the Coffee Sales Data project is to analyze sales performance across different coffee products and regions. It aims to identify top-selling items and customer preferences. The insights help improve marketing, pricing, and inventory decisions.
 ## dataset used
 <a href="https://github.com/Aravindkishore16/Data-Analysis-Dashboard/blob/main/Coffe_sales%20dashboard.xlsx">Dataset</a>
+
 ## Questions(KPIs)
 
 -How have total sales and profit changed year over year?
